@@ -29,7 +29,7 @@ class EdgeFinder:
 
         self._render()
 
-        print "Adjust the parameters as desired.  Hit any key to close."
+        print("Adjust the parameters as desired.  Hit any key to close.")
 
         cv2.waitKey(0)
 
